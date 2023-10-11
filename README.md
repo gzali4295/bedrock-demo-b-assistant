@@ -1,1 +1,5 @@
-# bedrock-demo-b-assistant
+Work in progress...
+
+# A demo of using Amazon Bedrock. Built using Streamlit.
+
+The application is a "Banker Assistant" that enables bankers to record a Voice Note and the app will create a file note, summary, actions and a follow up email that can be edited by the Banker.
