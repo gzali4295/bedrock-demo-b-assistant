@@ -1,0 +1,8 @@
+boto3
+botocore
+langchain==0.0.240
+urllib3==1.26.6
+beautifulsoup4
+streamlit
+google
+anthropic
